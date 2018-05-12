@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26376
     wikipedia: http://sv.wikipedia.org/wiki/Carl_Anton_Wetterbergh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29520#Tupa-Uudentalon-ver-j-ll-
 gutenberg_issued: '2009-07-27'
 gutenberg_type: Text
 identifiers:
